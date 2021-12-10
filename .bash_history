@@ -128,3 +128,72 @@ touch kk.java
 git add .
 git commit -m "file.kk"
 ls
+sudo yum install git 
+clear 
+git --version 
+git init 
+git config --global user.name=NamanGwalior
+git config --global user.name NamanGwalior
+git config --global user.email Naman@123456789
+git init
+ls -lrt
+clear 
+git clone 
+git remote add origin git@github.com:NamanGwalior/Naman-Check.git
+ls
+clear 
+vi sahajdps
+git add .
+git status
+mkdir sahajdps
+mkdir sahajudada
+pwd
+cd sahajudada/
+mv sahajdps 
+mv sahajdps  sahajuda
+touch sahaj11
+ls
+git add .
+git status
+git commit -m "sahaj added"
+git starus
+git status
+clear 
+git status
+git --version
+git --global user.name "NamanGwalior"
+git -- global user.name "NamanGwalior"
+clear 
+git --global user.name "NamanGwalior"
+git --global.user.name "NamanGwalior"
+clear 
+git config --global user.name "NamanGwalior"
+git config --global user.email "Naman@123456789"
+git config --list
+ls
+mkdir mumbaigit
+ls
+cd mumbaigit/
+git init 
+clear
+cat >mumbaigit1
+ls
+git status
+git add -A
+git status
+git commit -m"my first commit"
+git status
+git log
+git remote add origin git@github.com:NamanGwalior/NamanGwalior.git
+git push -u origin master
+clear 
+git remote add origin git@github.com:NamanGwalior/Capgemini.git
+git push -u origin master
+$ ssh-keygen -R <hostname>
+clear
+~/.ssh/known_hosts
+git push -u origin master
+pwd
+clear 
+cd..
+sudo su 
